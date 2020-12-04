@@ -38,7 +38,7 @@ const Users = () => {
             searchedUser();    
         }
     },[]);
-
+// eslint-disable-next-line react-hooks/exhaustive-deps
     const submit = (e) => {
         searchedUser(searchUser);
         setSearchUser('');
