@@ -1,0 +1,6 @@
+[1127/102144.954:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1127/102145.164:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\bichitra\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\999ef760-e380-4d63-96be-c36735042b9b: The system cannot find the path specified. (0x3)
+[1127/123111.222:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1127/123111.407:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\bichitra\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\355cd60b-4c4c-48a7-ba35-fcebdc1b24f7: The system cannot find the path specified. (0x3)
+[1203/123822.530:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1203/123822.661:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\bichitra\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\ee70c4aa-04b7-489d-835f-115994542971: The system cannot find the path specified. (0x3)
